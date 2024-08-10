@@ -53,4 +53,5 @@ echo 6785
 top
 ./kl.sh
 chmod +x kl.sh
+echo ('see you guys')
 
